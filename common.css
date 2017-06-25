@@ -1,0 +1,41 @@
+body {
+	color: #AA2A1B;
+	background-color: #DEDEDE;
+}
+header {
+	text-align: center;
+	font-size: 35;
+	border: 3px solid black;
+	border-radius: 5px;
+    background-color: #59af49;
+}
+img {
+	border: 1px solid black;
+	display: block;
+    margin: 0 auto;
+
+}
+nav.menu{
+	color: yellow;
+	text-align: center;
+}
+li.menu-item{
+	margin: 20px;
+	list-style: none;
+}
+a:link, a:visited{
+	color: #AA2A1B;
+    background-color: #59af49;
+	text-decoration: none;
+	padding: 5px 10px;
+}
+a:hover, a:active{
+	color: #DEDEDE;
+	background-color: #cba218;
+}
+a.menu-item-link{
+	border: 2px solid black;
+	border-radius: 5px;
+}
+
+
